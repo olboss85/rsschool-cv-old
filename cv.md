@@ -17,11 +17,16 @@ My goal now is to learn something new like JS. \
 - HTML5 (basic level)
 - CSS3 (basic level)
 
+### Code Examples
+```
+function multiply(a, b)
+{return a * b;}
+```
 ### Education
 * Kazakh Ablai Khan University of International Relations and World Languages
 
 ### Courses: 
-1. [STEP IT Academy](https://itstep.org/en)
+* [STEP IT Academy](https://itstep.org/en)
 + Course JavaScript Front-End Development (in progress)
     - HTML5
     - CSS3
@@ -30,7 +35,7 @@ My goal now is to learn something new like JS. \
     - Angular
     - React
 
-2. [RS Schools Course](https://rs.school/)
+* [RS Schools Course](https://rs.school/)
 + JavaScript/Front-end. Stage 0» (in progress)
 
 ### Languages:
