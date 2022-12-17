@@ -1,8 +1,70 @@
-body{margin:0px;}
+body{margin:0px; background-color:#F0FFFF;}
+*{padding:0px;}
+
+.in-block{display:inline-block;}
+
+/* .photo{background-color:gray;} */
+/* .firstpart{background-color:pink;} */
+/* .dannie{background-color:green;} */
+/* .me{background-color:yellow;} */
+/* .metext{background-color:blue;} */
+
+.firstpart{text-align:center;}
+
 .cont{
 width:1170px;
 margin:20px auto;
 }
+
 .surname{text-align:center;}
 .contacts{text-align:center;}
-.menucontacts{display:inline-block; text-align:left;}
+.menucontacts{display:inline-block; text-align:left; }
+
+
+.photo{width:49%;}
+.dannie{width:49%;}
+
+.logotip img{height:70px; width:70px;}
+
+.cvfooter{height:70px; text-align:center;}
+
+.year, .github, .logotip {width:33%;}
+
+.year, .github {position:relative; vertical-align:center;}
+.logotip{vertical-align:bottom;}
+
+.github a{text-decoration: none; color:black;}
+.logotip{text-decoration: none; color:black;}
+.menucontacts a{text-decoration: none; color:black;}
+.nav a{text-decoration: none; color:black;}
+.box a{text-decoration: none; color:black;}
+
+.box a:hover {
+color:#ef6249;
+transition: 0.5s;}
+
+.github a:hover {
+color:#ef6249;
+transition: 0.5s;}
+
+.menucontacts a:hover{
+color:#ef6249;
+transition: 0.5s;}
+
+.nav a:hover{
+color:#ef6249;
+transition: 0.5s;}
+
+.nav {text-align:center; width:100%;}
+.nav li{display:inline-block; width:15%;}
+
+
+
+/* .box:nth-child(even){background-color:red;} */
+/* .box:nth-child(odd){background-color:yellow;} */
+
+.box:nth-child(even){display:inline-block; width:49%; vertical-align:middle; text-align:center;}
+.box:nth-child(odd){display:inline-block; width:49%; vertical-align:middle;text-align:center;}
+
+.box h2{margin:46px;}
+.box{text-align:center;}
